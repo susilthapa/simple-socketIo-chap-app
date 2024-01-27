@@ -1,0 +1,9 @@
+{
+  "name": "simple-socket-chap-app",
+  "version": "0.0.1",
+  "description": "Socket.io test",
+  "type": "module",
+  "dependencies": {
+    "express": "4"
+  }
+}
